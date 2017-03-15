@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Isula's Home
+tagline:             'Since 2017.3.15'
+description:         'Website to record the bright life of Isula.'
+url:                 https://isula.github.io
+baseurl:             'https://isula.github.io'
+paginate:            5
+
+# About/contact
+author:
+  name:              我们都爱Isula
+  url:               isula.github.io
+  email:             isulaopensource@sina.cn
+
+# Custom vars
+version:             0.1.0
